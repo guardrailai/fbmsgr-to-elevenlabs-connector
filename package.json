@@ -1,0 +1,17 @@
+{
+  "name": "fbmsgr-elevenlabs-middleware",
+  "version": "1.0.0",
+  "description": "Facebook Messenger <-> ElevenLabs Conversational AI middleware",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@elevenlabs/client": "^0.1.5",
+    "express": "^4.19.2",
+    "ws": "^8.18.0"
+  }
+}

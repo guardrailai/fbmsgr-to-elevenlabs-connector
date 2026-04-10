@@ -1,0 +1,27 @@
+{
+  "PAGE_ID_1": {
+    "agentId": "elevenlabs-agent-id-1",
+    "pageTokenEnv": "PAGE_TOKEN_1",
+    "clientName": "Business1"
+  },
+  "PAGE_ID_2": {
+    "agentId": "elevenlabs-agent-id-2",
+    "pageTokenEnv": "PAGE_TOKEN_2",
+    "clientName": "Business2"
+  },
+  "PAGE_ID_3": {
+    "agentId": "elevenlabs-agent-id-3",
+    "pageTokenEnv": "PAGE_TOKEN_3",
+    "clientName": "Business3"
+  },
+  "PAGE_ID_4": {
+    "agentId": "elevenlabs-agent-id-4",
+    "pageTokenEnv": "PAGE_TOKEN_4",
+    "clientName": "Business4"
+  },
+  "PAGE_ID_5": {
+    "agentId": "elevenlabs-agent-id-5",
+    "pageTokenEnv": "PAGE_TOKEN_5",
+    "clientName": "Business5"
+  }
+}
